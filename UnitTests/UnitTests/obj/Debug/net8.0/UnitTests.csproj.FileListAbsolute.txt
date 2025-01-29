@@ -1,0 +1,14 @@
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\bin\Debug\net8.0\UnitTests.exe
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\bin\Debug\net8.0\UnitTests.deps.json
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\bin\Debug\net8.0\UnitTests.runtimeconfig.json
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\bin\Debug\net8.0\UnitTests.dll
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\bin\Debug\net8.0\UnitTests.pdb
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfoInputs.cache
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfo.cs
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.dll
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\refint\UnitTests.dll
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.pdb
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
+C:\BIS\Training Projects\Testing practice\UnitTests\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll

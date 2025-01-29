@@ -1,0 +1,14 @@
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.exe
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.deps.json
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.runtimeconfig.json
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.dll
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.pdb
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfoInputs.cache
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfo.cs
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.dll
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\refint\NetworkUtility.dll
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.pdb
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.genruntimeconfig.cache
+C:\BIS\Training Projects\Testing practice\UnitTests\NetworkUtility\obj\Debug\net8.0\ref\NetworkUtility.dll
