@@ -1,3 +1,6 @@
 
 pokemon-review-api/PokemonReviewApp/obj/*
 pokemon-review-api/.vs/*
+pokemon-review-api/PokemonReviewApp.Tests/bin/*
+pokemon-review-api/PokemonReviewApp.Tests/obj/*
+pokemon-review-api/PokemonReviewApp/bin/*
